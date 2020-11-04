@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/geo-social-app/static/css/main.ab7136cd.chunk.css",
+    "main.js": "/geo-social-app/static/js/main.f1dba6bd.chunk.js",
+    "main.js.map": "/geo-social-app/static/js/main.f1dba6bd.chunk.js.map",
+    "runtime-main.js": "/geo-social-app/static/js/runtime-main.86bf4860.js",
+    "runtime-main.js.map": "/geo-social-app/static/js/runtime-main.86bf4860.js.map",
+    "static/js/2.fa138f80.chunk.js": "/geo-social-app/static/js/2.fa138f80.chunk.js",
+    "static/js/2.fa138f80.chunk.js.map": "/geo-social-app/static/js/2.fa138f80.chunk.js.map",
+    "static/js/3.1028ca48.chunk.js": "/geo-social-app/static/js/3.1028ca48.chunk.js",
+    "static/js/3.1028ca48.chunk.js.map": "/geo-social-app/static/js/3.1028ca48.chunk.js.map",
+    "index.html": "/geo-social-app/index.html",
+    "static/css/main.ab7136cd.chunk.css.map": "/geo-social-app/static/css/main.ab7136cd.chunk.css.map",
+    "static/js/2.fa138f80.chunk.js.LICENSE.txt": "/geo-social-app/static/js/2.fa138f80.chunk.js.LICENSE.txt",
+    "static/media/logo.103b5fa1.svg": "/geo-social-app/static/media/logo.103b5fa1.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.86bf4860.js",
+    "static/js/2.fa138f80.chunk.js",
+    "static/css/main.ab7136cd.chunk.css",
+    "static/js/main.f1dba6bd.chunk.js"
+  ]
+}
